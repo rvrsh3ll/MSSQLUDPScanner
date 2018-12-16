@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSSQLUDPScanner", "MSSQLUDPScanner\MSSQLUDPScanner.csproj", "{12360864-2364-4335-9118-9705E835DE8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12360864-2364-4335-9118-9705E835DE8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12360864-2364-4335-9118-9705E835DE8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12360864-2364-4335-9118-9705E835DE8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12360864-2364-4335-9118-9705E835DE8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AE35A74-9C49-4AEB-B38C-FB61A82C5160}
+	EndGlobalSection
+EndGlobal
